@@ -1,2 +1,2 @@
 # css-positions
-stiky and fixed
+sticky and fixed
